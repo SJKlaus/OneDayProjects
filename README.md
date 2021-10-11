@@ -1,1 +1,3 @@
 # OneDayProjects
+
+Automation notes 
